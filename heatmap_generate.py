@@ -67,7 +67,7 @@ def generate_animations(image_dir, gif_duration):
 
 if __name__ == "__main__":
     base_dir = r"D:\mmWave"
-    file_name = "01_54_01"
+    file_name = "01_52_04"
     data_path = os.path.join(base_dir, f"{file_name}.npy")
     output_dir = os.path.join(base_dir, "heatmaps", file_name)
 
